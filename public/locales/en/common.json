@@ -1,0 +1,153 @@
+{
+  "G Developments": "G Developments",
+  "Our Communities": "Our Communities",
+  "Latest Updates": "Latest Updates",
+  "Get In Touch": "Get In Touch",
+
+  "about_us": "About Us",
+  "about_us_desc1": "Real Estate developer blending timeless ",
+  "about_us_desc2": "Design with comfortable living.",
+  
+    "our_story": "Our Story",
+    "company_description": "We are a family-owned real estate development company based in Egypt. Since 1955, we have been committed to delivering timeless, quality developments that epitomize comfort and functionality.",
+    
+      "total_landbank_number": "9,588,112",
+      "total_landbank_title": "Total landbank",
+      "total_landbank_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna sit amet consectetur adipiscing elit.",
+      
+      "projects_number": "8",
+      "projects_title": "Projects",
+      "projects_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna sit amet consectetur adipiscing elit.",
+      
+      "years_of_operation_number": "60",
+      "years_of_operation_title": "Years of operation",
+      "years_of_operation_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna sit amet consectetur adipiscing elit.",
+      
+        "leadership_title": "LeaderShip",
+        "leadership_description": "We are a family-owned real estate development company based in Egypt. Since 1955, we have been committed to delivering timeless, quality developments that epitomize comfort and functionality.",
+        
+          "akram_ziyad_name": "Akram Ziyad",
+          "akram_ziyad_title": "Vice President - Strategy",
+          "ahmed_khaled_name": "Ahmed Khaled",
+          "ahmed_khaled_title": "Vice President - Real Estate",
+          "mona_wael_name": "Mona Wael",
+          "mona_wael_title": "Head of People",
+          "sara_ali_name": "Sara Ali",
+          "sara_ali_title": "Marketing Director",
+          "omar_nasser_name": "Omar Nasser",
+          "omar_nasser_title": "CTO",
+          "layla_hassan_name": "Layla Hassan",
+          "layla_hassan_title": "CFO",
+          
+            "team": {
+              "members": [
+                { "id": 1, "name": "Akram Ziyad", "title": "Vice President - Strategy" },
+                { "id": 2, "name": "Ahmed Khaled", "title": "Vice President - Real Estate" },
+                { "id": 3, "name": "Mona Wael", "title": "Head of People" },
+                { "id": 4, "name": "Sara Ali", "title": "Marketing Director" },
+                { "id": 5, "name": "Omar Nasser", "title": "CTO" },
+                { "id": 6, "name": "Layla Hassan", "title": "CFO" }
+              ],
+              "navigation": {
+                "prev": "Previous",
+                "next": "Next"
+              },
+              "progress": "Progress"
+            },
+            "approach": {
+              "title": "Our Approach",
+              "sections": [
+                {
+                  "id": 1,
+                  "title": "Location",
+                  "content": "Location serves as the foundation upon which we curate remarkable living spaces. We rigorously evaluate each plot we choose, with a focus on accessibility, convenience, and potential for growth. Our strategic selection spans diverse areas across the city, guaranteeing you the best of every neighborhood."
+                },
+                {
+                  "id": 2,
+                  "title": "Design",
+                  "content": "Our design philosophy combines aesthetics and functionality to create timeless living spaces. Each project is carefully crafted to reflect modern elegance while ensuring practicality and comfort."
+                },
+                {
+                  "id": 3,
+                  "title": "Construction",
+                  "content": "We employ advanced construction techniques and high-quality materials to ensure durability and sustainability. Our rigorous quality control measures guarantee that every project meets industry standards."
+                },
+                {
+                  "id": 4,
+                  "title": "End-to-End Service",
+                  "content": "From initial planning to final execution, our team provides comprehensive project management, ensuring a seamless and hassle-free experience for our clients."
+                }
+              ]
+            },
+            
+              "discover": {
+                "title": "Discover our latest",
+                "button": "Media Center",
+                "slides": [
+                  {
+                    "id": 1,
+                    "category": "Seashell",
+                    "location": "Ras El Hekma",
+                    "title": "G Developments launches Seashell Ras El Hekma",
+                    "description": "The first fully-integrated coastal resort at the heart of the North Coast’s Ras El Hekma.",
+                    "image": "/dis1.jpeg",
+                    "date": "News - May 2024"
+                  },
+                  {
+                    "id": 2,
+                    "category": "Real Estate",
+                    "location": "North Coast",
+                    "title": "G Developments launches Seashell Ras El Hekma",
+                    "description": "Experience unparalleled luxury with our latest beachfront villas in the North Coast.",
+                    "image": "/disc2.png",
+                    "date": "News - May 2024"
+                  },
+                  {
+                    "id": 3,
+                    "category": "Seashell",
+                    "location": "Ras El Hekma",
+                    "title": "G Developments launches Seashell Ras El Hekma",
+                    "description": "The first fully-integrated coastal resort at the heart of the North Coast’s Ras El Hekma.",
+                    "image": "/disc3.png",
+                    "date": "News - May 2024"
+                  },
+                  {
+                    "id": 4,
+                    "category": "Real Estate",
+                    "location": "North Coast",
+                    "title": "G Developments launches Seashell Ras El Hekma",
+                    "description": "Experience unparalleled luxury with our latest beachfront villas in the North Coast.",
+                    "image": "/disc2.png",
+                    "date": "News - May 2024"
+                  }
+                ]
+              },
+              
+                "about_us": "About us",
+                "our_connection": "Our Connection",
+                "latest_updates": "Latest Updates",
+                "careers": "Careers",
+                "faqs": "FAQs",
+                "contact_us": "Contact us",
+                "interest_form": "INTEREST FORM",
+                "looking_for_something": "Looking for something specific",
+                "submit_your_interest": "Submit Your Interest",
+                "social": "SOCIAL",
+                "instagram": "Instagram",
+                "linkedin": "LinkedIn",
+                "facebook": "Facebook",
+                "contact_info": "CONTACT INFO",
+                "email": "info@gdevelopments.com",
+                "phone": "16738",
+                "copyright": "© 2024 G Developments. All rights reserved.",
+                "privacy": "Privacy",
+                "terms_conditions": "Terms & Conditions",
+                "website_by": "Website by",
+                "mitch_designs": "Mitch Designs",
+                "scroll_to_top": "Scroll to Top"
+                            
+                        
+                  
+                           
+    
+}
